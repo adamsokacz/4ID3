@@ -5,16 +5,6 @@
 * [🔍 Learning Modules](prerequisite-modules.md)
 * [📂 Lab GitHub](https://github.com/sokacza/4ID3\_V2)
 
-## A01 - C# for Building User Interfaces
-
-* [This module...](a01-c-for-building-user-interfaces/this-module.../README.md)
-  * [Page 3](a01-c-for-building-user-interfaces/this-module.../page-3.md)
-
-## A02 - WinForms Database User Interface
-
-* [This module...](a02-winforms-database-user-interface/this-module.../README.md)
-  * [Page 1](a02-winforms-database-user-interface/this-module.../page-1.md)
-
 ## Lab00 - Pre Lab Setup
 
 * [GitHub Setup](https://youtu.be/pr8gDpDEh5Q)
