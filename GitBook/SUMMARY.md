@@ -33,3 +33,8 @@
 
 * [Lab04 PDF](https://github.com/adamsokacz/4ID3/blob/main/Lab04/Instructions/Lab04\_LoRaWAN.pdf)
 * [Lab04 Word](https://github.com/adamsokacz/4ID3/raw/main/Lab04/Instructions/Lab04\_LoRaWAN.docx)
+
+## Lab05 - ZigBee
+
+* [Lab05 PDF](https://github.com/adamsokacz/4ID3/blob/main/Lab05/Instructions/Lab05\_ZigBee.pdf)
+* [Lab05 - Word](https://github.com/adamsokacz/4ID3/raw/main/Lab05/Instructions/Lab05\_ZigBee.docx)
