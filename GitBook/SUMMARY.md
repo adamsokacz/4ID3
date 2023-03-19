@@ -7,12 +7,13 @@
 
 ## A01 - C# for Building User Interfaces
 
-* [Page 1](a01-c-for-building-user-interfaces/page-1/README.md)
-  * [Page 3](a01-c-for-building-user-interfaces/page-1/page-3.md)
+* [This module...](a01-c-for-building-user-interfaces/this-module.../README.md)
+  * [Page 3](a01-c-for-building-user-interfaces/this-module.../page-3.md)
 
 ## A02 - WinForms Database User Interface
 
-* [Page 2](a02-winforms-database-user-interface/page-2.md)
+* [This module...](a02-winforms-database-user-interface/this-module.../README.md)
+  * [Page 1](a02-winforms-database-user-interface/this-module.../page-1.md)
 
 ## Lab00 - Pre Lab Setup
 
