@@ -28,3 +28,8 @@
 
 * [Lab03 PDF](https://github.com/sokacza/4ID3\_V2/blob/main/Lab03/Instructions/Lab03\_LoRa.pdf)
 * [Lab03 Word](https://github.com/sokacza/4ID3\_V2/raw/main/Lab03/Instructions/Lab03\_LoRa.docx)
+
+## Lab04 - LoRaWAN
+
+* [Lab04 PDF](https://github.com/adamsokacz/4ID3/blob/main/Lab04/Instructions/Lab04\_LoRaWAN.pdf)
+* [Lab04 Word](https://github.com/adamsokacz/4ID3/raw/main/Lab04/Instructions/Lab04\_LoRaWAN.docx)
