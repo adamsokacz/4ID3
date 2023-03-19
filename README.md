@@ -1,2 +1,2 @@
 # Documentation
-https://sokacza.gitbook.io/4id3-docs/
+https://adam-36.gitbook.io/4id3/
