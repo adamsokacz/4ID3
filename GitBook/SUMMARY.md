@@ -7,7 +7,8 @@
 
 ## A01 - C# for Building User Interfaces
 
-* [Page 1](a01-c-for-building-user-interfaces/page-1.md)
+* [Page 1](a01-c-for-building-user-interfaces/page-1/README.md)
+  * [Page 3](a01-c-for-building-user-interfaces/page-1/page-3.md)
 
 ## A02 - WinForms Database User Interface
 

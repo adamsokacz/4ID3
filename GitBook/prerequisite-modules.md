@@ -4,7 +4,7 @@ description: >-
   of this course.
 ---
 
-# Learning Modules
+# 🔍 Learning Modules
 
 ### Python Quick Start | LinkedIn Learning
 
@@ -21,4 +21,3 @@ description: >-
 ### An Introduction to Learning C# | LinkedIn Learning
 
 {% embed url="https://www.linkedin.com/learning-login/share?account=56982905&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-c-sharp-8581491%3Ftrk%3Dshare_ent_url%26shareId%3DFE8w3AwlTwaOy%252BhJRNtvxQ%253D%253D" %}
-
