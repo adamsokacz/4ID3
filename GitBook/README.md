@@ -1,8 +1,8 @@
-# About
+# ❔ About
 
 ## Welcome!
 
-Hello everyone and welcome to the 4ID3 IoT Devices & Networks lab component! My name is Adam Sokacz and I am an Automation graduate from the class of 2023. I have a passion for software development and using these tools to build real-world solutions! Apart from that, I'm an avid cycIist and love biking and hiking the amazing trails around Hamilton and throughout the golden horseshoe. I have had the extraordinary opportunity to be a part of the course revamp and restructure many of the lab experiments that you will be doing this semester.&#x20;
+Hello everyone and welcome to the 4ID3 IoT Devices & Networks lab component! My name is Adam Sokacz and I am an Automation graduate from the class of 2023. I have a passion for software development and using these tools to build real-world solutions! Apart from that, I'm an avid cycIist and love biking and hiking the amazing trails around Hamilton and throughout the golden horseshoe. I have had the extraordinary opportunity to be a part of the course revamp and restructure many of the lab experiments that you will be doing this semester.
 
 For questions or technical support, you can contact me at **adamsokacz@gmail.com**
 
@@ -18,4 +18,3 @@ For questions or technical support, you can contact me at **adamsokacz@gmail.com
 * How to build mini .NET C# desktop applications to visualize and interact with your stored data
 * How to use version control tools like Git and GitHub to publish and collaborate on software projects
 * Use Python as a compatibility layer to connect varios parts of your network
-

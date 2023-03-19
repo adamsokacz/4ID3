@@ -5,6 +5,16 @@
 * [🔍 Learning Modules](prerequisite-modules.md)
 * [📂 Lab GitHub](https://github.com/sokacza/4ID3\_V2)
 
+## A01 - C# for Building User Interfaces
+
+* [This module...](a01-c-for-building-user-interfaces/this-module.../README.md)
+  * [Page 3](a01-c-for-building-user-interfaces/this-module.../page-3.md)
+
+## A02 - WinForms Database User Interface
+
+* [This module...](a02-winforms-database-user-interface/this-module.../README.md)
+  * [Page 1](a02-winforms-database-user-interface/this-module.../page-1.md)
+
 ## Lab00 - Pre Lab Setup
 
 * [GitHub Setup](https://youtu.be/pr8gDpDEh5Q)
@@ -33,3 +43,8 @@
 
 * [Lab04 PDF](https://github.com/adamsokacz/4ID3/blob/main/Lab04/Instructions/Lab04\_LoRaWAN.pdf)
 * [Lab04 Word](https://github.com/adamsokacz/4ID3/raw/main/Lab04/Instructions/Lab04\_LoRaWAN.docx)
+
+## Lab05 - ZigBee
+
+* [Lab05 PDF](https://github.com/adamsokacz/4ID3/blob/main/Lab05/Instructions/Lab05\_ZigBee.pdf)
+* [Lab05 - Word](https://github.com/adamsokacz/4ID3/raw/main/Lab05/Instructions/Lab05\_ZigBee.docx)
