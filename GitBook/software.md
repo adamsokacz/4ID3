@@ -1,4 +1,4 @@
-# Software
+# 💻 Software
 
 In this lab, we will be installing and using a wide variety of applications and software. This page will serve as a quick install and setup guide before you start your labs!
 

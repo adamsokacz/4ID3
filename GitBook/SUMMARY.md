@@ -1,7 +1,7 @@
 # Table of contents
 
 * [❔ About](README.md)
-* [👨💻 Software](software.md)
+* [💻 Software](software.md)
 * [🔍 Learning Modules](prerequisite-modules.md)
 * [📂 Lab GitHub](https://github.com/sokacza/4ID3\_V2)
 
