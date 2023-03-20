@@ -2,7 +2,7 @@
 
 ### What is NodeRED?
 
-NodeRED is a graphical data-driven programming tool built on the NodeJS JavaScript runtime. To use it, the user imports libraries of nodes and connects these nodes together to implement logic.&#x20;
+NodeRED is a graphical data-driven programming tool built on the NodeJS JavaScript runtime. To use it, the user imports libraries of nodes and connects these nodes together to implement logic.
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -27,9 +27,8 @@ Since NodeJS is a JavaScript runtime, the programming language used inside funct
 
 A popular extension for NodeRED is node-red-dashboard. What it does is it implements easy-to-use nodes that create interactive elements in a dashboard UI.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ### Exporting Flows
 
 While flows can be saved within NodeRED, they can also be exported into a text format called JSON. This JSON file can then be loaded onto another PC or saved for the future.
-
