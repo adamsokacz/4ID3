@@ -36,6 +36,7 @@
 
 ## Assignments
 
-* [C# for Building User Interfaces](assignments/c-for-building-user-interfaces.md)
-* [WinForms & Parsing a Database](assignments/winforms-and-parsing-a-database.md)
-* [WinForms & MQTT](assignments/winforms-and-mqtt.md)
+* [A01 - C# for Building User Interfaces](assignments/a01-c-for-building-user-interfaces.md)
+* [A02 - MQTT Parsing with C#](assignments/a02-mqtt-parsing-with-c.md)
+* [A03 - MySQL Parsing with C#](assignments/a03-mysql-parsing-with-c.md)
+* [A04 - Desktop Application Development](assignments/a04-desktop-application-development.md)
