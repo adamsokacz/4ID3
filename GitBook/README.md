@@ -2,14 +2,19 @@
 
 ## Welcome!
 
-Hello everyone and welcome to the 4ID3 IoT Devices & Networks lab component! My name is Adam Sokacz and I am an Automation graduate from the class of 2023. I have a passion for software development and using these tools to build real-world solutions! Apart from that, I'm an avid cycIist and love biking and hiking the amazing trails around Hamilton and throughout the golden horseshoe. I have had the extraordinary opportunity to be a part of the course revamp and restructure many of the lab experiments that you will be doing this semester.
+Hello everyone and welcome to the 4ID3 IoT Devices & Networks lab component! My name is Adam Sokacz and I am an Automation graduate from the class of 2023. I have a passion for software development and using software to solve real world challenges! Apart from that, I am an avid cyclist, I love biking and hiking the amazing trails around Hamilton and throughout the golden horseshoe.  I have had the extraordinary opportunity to be a part of the course revamp and restructure many of the lab experiments that you will be doing this semester.
 
-For questions or technical support, you can contact me at **adamsokacz@gmail.com**
+For questions or technical support, you can contact me at&#x20;
 
-## What is this Course About?
+{% hint style="info" %}
+Adam Sokacz
 
-* Learn how to use technologies to aggregate sensor data from microcontrollers over a network
-* Create full end-to-end projects that you can document and showcase on your resume/portfolio
+**sokacza@mcmaster.ca**  _MS Teams | Email_
+{% endhint %}
+
+## Course Objective
+
+*
 
 ## What Will I Learn?
 
