@@ -2,7 +2,7 @@
 
 ## Welcome
 
-* [❔ About](README.md)
+* [⭐ About](README.md)
 * [💻 Software](welcome/software.md)
 * [🔍 Learning Modules](welcome/prerequisite-modules.md)
 * [📂 Lab GitHub](https://github.com/sokacza/4ID3\_V2)
