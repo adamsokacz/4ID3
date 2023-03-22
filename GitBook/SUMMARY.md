@@ -3,14 +3,14 @@
 ## Welcome
 
 * [⭐ About](README.md)
-* [💻 Software](welcome/software.md)
 * [🔍 Learning Modules](welcome/prerequisite-modules.md)
 * [📂 Lab GitHub](https://github.com/sokacza/4ID3\_V2)
 
 ## Labs
 
-* [Lab00 - Pre Lab Setup](labs/lab00-pre-lab-setup/README.md)
-  * [NodeRED Install](labs/lab00-pre-lab-setup/nodered-install.md)
+* [Lab00 - Software Setup](labs/lab00-software-setup/README.md)
+  * [Software Links](labs/lab00-software-setup/software.md)
+  * [NodeRED Install](labs/lab00-software-setup/nodered-install.md)
   * [GitHub Setup](https://youtu.be/pr8gDpDEh5Q)
   * [Git Reference Guide](https://education.github.com/git-cheat-sheet-education.pdf)
 * [Lab01 - WiFi](labs/lab01-wifi/README.md)
