@@ -12,7 +12,7 @@ A node that will be used frequently in these labs is the MQTT In node, which all
 
 Data is stored in the **msg** object and passed from node-to-node. Most of the useful data can be found in the **payload field** of the **msg object**, which can be parsed out using the . operator inside a custom **function** node.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ```javascript
 msg.payload = "My Data";

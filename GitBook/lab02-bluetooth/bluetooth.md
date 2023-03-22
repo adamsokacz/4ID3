@@ -8,7 +8,7 @@ Common applications of bluetooth include transmitting data files using applicati
 
 The following diagram describes a typical packet structure:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 A notable limitation of Bluetooth Classic is that it can only support up to 7 slave devices in the network. This is because 3 bits of data can only generate 8 unique addresses. One of these addresses is reserved for the master device.
 
