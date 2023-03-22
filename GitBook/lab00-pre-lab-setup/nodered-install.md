@@ -10,7 +10,7 @@ Navigate to the following url:
 
 Select the correct installer for your operating system.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 Have it automatically install the necessary tools and press Install.
 
@@ -34,15 +34,13 @@ To verify that it has been installed correctly, using the Start Button, search f
 
 <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;
-
-&#x20;
-
 Run the node command with the version flag to echo out the current installed version of NodeJS.
 
-_node --version_
+```powershell
+node --version
+```
 
-__
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 NodeRED will be installed by NPM. NPM is an acronym for Node Package Manager. When programming, sometimes different programs need to use to the same libraries or frameworks. A package manager ensures the same libraries are not installed twice, they remain up-to-date, and they have the correct dependencies installed for them to work properly. NPM will be used to install NodeRED.
 
