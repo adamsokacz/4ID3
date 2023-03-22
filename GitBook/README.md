@@ -7,13 +7,14 @@ Hello everyone and welcome to the 4ID3 IoT Devices & Networks lab component! My 
 For questions or technical support, you can contact me at&#x20;
 
 {% hint style="info" %}
-Adam Sokacz
+**Adam Sokacz**
 
-**sokacza@mcmaster.ca**  _MS Teams | Email_
+sokacza@mcmaster.ca  ****  _MS Teams | Email_
 {% endhint %}
 
 ## Course Objective
 
+* Explore a variety of IoT communication access technologies
 *
 
 ## What Will I Learn?
